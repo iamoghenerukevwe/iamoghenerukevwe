@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamoghenerukevwe
-- 👀 I’m interested in Android development & Cross Platform Compatibility 
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Android
+- 👀 I'm a React.JS Developer
+- 🌱 I’m interested in Android development & Cross Platform Compatibility 
+- 💞️ I’m looking to collaborate on any Front-end Projects
 - 📫 How to reach me michaelogenerukevwe@gmail.com
 
 <!---
