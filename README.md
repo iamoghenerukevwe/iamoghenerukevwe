@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamoghenerukevwe
 - 👀 I'm a React.JS Developer
-- 🌱 I’m interested in Android development & Cross Platform Compatibility 
+- 🌱 I’m interested in Web3 and the blockchain
 - 💞️ I’m looking to collaborate on any Front-end Projects
 - 📫 How to reach me michaelogenerukevwe@gmail.com
 
